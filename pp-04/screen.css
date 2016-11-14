@@ -28,3 +28,12 @@ h2{
 p{
 	padding: 1em;
 }
+
+ul {
+  padding-left: 1em; 
+  line-height: 1.125em; 
+}
+
+li {
+  padding: 0;
+}
